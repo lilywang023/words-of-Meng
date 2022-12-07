@@ -1,7 +1,7 @@
 1. command+tab 切换屏幕
 2. command+control+F 全屏
 3. firefox -x 关掉页面
-   - command+w 关掉页面
+  - command+w 关掉页面
 
 ---
 
