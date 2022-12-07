@@ -1,7 +1,7 @@
-1. command+tab 切换屏幕,
-2. command+control+F 全屏,
-3. firefox -x 关掉页面,
-   -       -command+w 关掉页面,
+1. command+tab 切换屏幕
+2. command+control+F 全屏
+3. firefox -x 关掉页面
+   - command+w 关掉页面
 
 ---
 
@@ -25,6 +25,6 @@
 20. ctrl a移动到该行的最前端
 21. ctrl e移动到该行的最末端
 22. helix x 选中一行，v选中单个字母
-23.       d剪切，p粘贴，y复制
+23. d剪切，p粘贴，y复制
 24. v进入选择模式
 25. m同样
